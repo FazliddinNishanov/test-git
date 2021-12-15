@@ -1,3 +1,4 @@
 B fayl git uchun birinchi malumot
 
 O`zgartirildi
+Gitdan o`zgartirildi
